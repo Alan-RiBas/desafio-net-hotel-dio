@@ -66,7 +66,7 @@ Programação Orientada a Objetos (POO)
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/sistema-hospedagem.git
+git clone [https://github.com/seu-usuario/sistema-hospedagem.git](https://github.com/Alan-RiBas/desafio-net-hotel-dio)
 
 
 Acesse a pasta do projeto:
